@@ -3,4 +3,4 @@ Bot para o discord
 
 
 
-2024
+2024 - BRAZIL
